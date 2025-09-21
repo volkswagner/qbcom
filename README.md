@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Qbcom
 
 QuickBooks Compatibility for ERPNext
@@ -31,3 +32,7 @@ Pre-commit is configured to use the following tools for checking and formatting 
 ### License
 
 mit
+=======
+# qbcom
+QuickBooks Compatibility for ERPNext
+>>>>>>> bb04eb4dec47711d2009266cb38bc7dfce3dd5f0
